@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">3b6c9db3db16330089b28809489619b7</block>
+        <comment/>
+        <connected_to>fb2506b1-64ad-4c40-9a23-abef45c416b6</connected_to>
+        <display_text/>
+        <flow display_value="event approval">0cc0a9f7db16330089b28809489619d9</flow>
+        <inputs/>
+        <logic_definition display_value="Else If">666e5545c3e232002841b63b12d3ae99</logic_definition>
+        <order>1.4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>9671acf5-8dcc-451d-819c-f69b7b92f81c</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 09:48:31</sys_created_on>
+        <sys_id>50c0e9f7db16330089b2880948961901</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Event Management" source="x_336025_em">6ac198b3db12330089b28809489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">6ac198b3db12330089b28809489619a7</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_50c0e9f7db16330089b2880948961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 09:48:31</sys_updated_on>
+        <ui_id>e2a4e27b-b493-4566-b779-14a828365cf1</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=50c0e9f7db16330089b2880948961901"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>50c0e9f7db16330089b2880948961901</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 09:48:31</sys_created_on>
+        <sys_id>9cc0e9f7db16330089b2880948961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 09:48:31</sys_updated_on>
+        <value>rejected</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>50c0e9f7db16330089b2880948961901</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 09:48:31</sys_created_on>
+        <sys_id>d8c0e9f7db16330089b2880948961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 09:48:31</sys_updated_on>
+        <value>{{d7f273ac-5ee9-4b0c-9b30-797e1829335a.approval_state}}=rejected</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea1</variable>
+    </sys_variable_value>
+</record_update>

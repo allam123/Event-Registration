@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_336025_em_event_reg">event_type=4<item endquery="false" field="event_type" goto="false" newquery="false" operator="=" or="false" value="4"/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>true</on_update>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 09:48:32</sys_created_on>
+        <sys_id>f4c0e9f7db16330089b2880948961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Event Management" source="x_336025_em">6ac198b3db12330089b28809489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">6ac198b3db12330089b28809489619a7</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_f4c0e9f7db16330089b2880948961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 09:48:32</sys_updated_on>
+        <table>x_336025_em_event_reg</table>
+    </sys_flow_record_trigger>
+</record_update>

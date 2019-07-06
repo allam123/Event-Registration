@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="email" label="Email" language="en" table="x_336025_em_event_reg">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <help/>
+            <hint/>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_336025_em_event_reg</name>
+            <plural>Emails</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-04 06:00:43</sys_created_on>
+            <sys_id>df9cec37db92330089b2880948961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Email</sys_name>
+            <sys_package display_value="Event Management" source="x_336025_em">6ac198b3db12330089b28809489619a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Management">6ac198b3db12330089b28809489619a7</sys_scope>
+            <sys_update_name>sys_documentation_x_336025_em_event_reg_email_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-04 06:00:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

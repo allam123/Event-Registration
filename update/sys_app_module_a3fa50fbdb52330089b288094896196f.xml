@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Event Management">bac114f3db52330089b2880948961989</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="x_336025_em_event_reg">status=4^EQ<item endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Awaiting Approval events</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_336025_em_event_reg</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 04:44:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a3fa50fbdb52330089b288094896196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting Approval events</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Event Management" source="x_336025_em">6ac198b3db12330089b28809489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">6ac198b3db12330089b28809489619a7</sys_scope>
+        <sys_update_name>sys_app_module_a3fa50fbdb52330089b288094896196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 04:44:32</sys_updated_on>
+        <timeline_page/>
+        <title>Awaiting Approval events</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
